@@ -1,0 +1,12 @@
+package com.zxb.learn;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MyLearnApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MyLearnApplication.class, args);
+    }
+}
